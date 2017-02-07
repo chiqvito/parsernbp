@@ -1,2 +1,4 @@
 parsernbp.iml
 .idea/
+logs/
+target/
